@@ -19,34 +19,52 @@ This repo implements **MedRule-KG**, a compact typed knowledge graph plus a **li
 
 ## Repository Structure
 
+# Repository Structure
+
+```
 medrule-kg/
-├─ code/
-│ ├─ build_medrulekg_from_fda.py
-│ ├─ build_qt_flags_from_openfda.py
-│ ├─ fda_cyp_to_csv.py
-│ ├─ generate.py
-│ ├─ run_inference.py
-│ ├─ run_systems.py
-│ ├─ eval_emit_inline.py
-│ └─ eval.py
-├─ data/
-│ ├─ problems.jsonl
-│ ├─ predictions_cot.jsonl
-│ ├─ predictions_kg.jsonl
-│ ├─ predictions_ours.jsonl
-│ ├─ rules.yaml
-│ └─ raw/
-│ ├─ inhibitors.csv
-│ ├─ substrates.csv
-│ └─ qt_flags.csv
-├─ figs/
-│ ├─ per_rule_violations.png
-│ ├─ stratified_em.png
-│ └─ learning_curve.png
-├─ tables/
-│ └─ main_numbers_only.csv
-├─ .gitignore
-└─ README.md
+├── code/                       # Core Python code
+│   ├── build_medrulekg_from_fda.py      # Build dataset from FDA drug-enzyme tables
+│   ├── build_qt_flags_from_openfda.py   # Extract QT-prolongation flags
+│   ├── fda_cyp_to_csv.py                # Scrape/convert FDA CYP tables
+│   ├── generate.py                      # Synthetic example generation (legacy)
+│   ├── run_inference.py                 # Run LLM inference across systems
+│   ├── run_systems.py                   # Batch runner for multiple backends
+│   ├── eval.py                          # Core evaluation logic
+│   ├── eval_emit_inline.py              # Emit LaTeX-ready tables & figures
+│   └── utils.py                         # Shared helpers (if applicable)
+│
+├── data/                      # Datasets and predictions
+│   ├── problems.jsonl                   # Benchmark problems (FDA-derived)
+│   ├── predictions_cot.jsonl            # CoT baseline predictions
+│   ├── predictions_cot_metrics.csv      # Metrics for CoT baseline
+│   ├── predictions_kg.jsonl             # CoT + MedRule-KG predictions
+│   ├── predictions_kg_metrics.csv       # Metrics for CoT + KG
+│   ├── predictions_ours.jsonl           # MedRule-KG + Verifier predictions
+│   ├── predictions_ours_metrics.csv     # Metrics for Ours
+│   ├── rules.yaml                       # Rule definitions (C1–C3)
+│   └── raw/                             # Raw FDA-derived tables
+│       ├── inhibitors.csv
+│       ├── substrates.csv
+│       └── qt_flags.csv
+│
+├── figs/             
+│   ├── learning_curve.png
+│   ├── per_rule_violations.png
+│   └── stratified_em.png
+│
+├── tables/
+│   └── main_numbers_only.csv
+│
+├── paper/ 
+│   ├── medrulekg_neurips2025.tex
+│   ├── refs.bib
+│   └── figures/
+│
+├── .gitignore
+├── README.md
+└── LICENSE
+```
 
 
 ---
