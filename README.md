@@ -19,8 +19,6 @@ This repo implements **MedRule-KG**, a compact typed knowledge graph plus a **li
 
 ## Repository Structure
 
-# Repository Structure
-
 ```
 medrule-kg/
 ├── code/                       # Core Python code
