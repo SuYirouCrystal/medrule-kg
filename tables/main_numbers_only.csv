@@ -1,0 +1,4 @@
+System,EM,AvgViolations
+CoT (no KG),0.766667,0.233333
+CoT + MedRule-KG,1.0,0.0
+MedRule-KG + Verifier (Ours),1.0,0.0

@@ -1,0 +1,21 @@
+entities:
+- Drug
+- Enzyme
+- Pathway
+relations:
+- name: inhibits
+  domain: Drug
+  range: Enzyme
+- name: metabolized_by
+  domain: Drug
+  range: Enzyme
+attributes:
+- name: prolongs_qt
+  domain: Drug
+constraints:
+- id: C1
+  text: If A inhibits E and B is metabolized_by E, co-admin A+B is risky.
+- id: C2
+  text: If A and B both prolong QT, co-admin is risky.
+- id: C3
+  text: If no shared enzyme and not both QT+, predicting risky is a violation.

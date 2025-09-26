@@ -1,0 +1,8 @@
+venv
+*.pdf
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+build

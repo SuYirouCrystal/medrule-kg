@@ -1,0 +1,290 @@
+{"id": "ex0000", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0001", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0002", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0003", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0004", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0005", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0006", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0007", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0008", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0009", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0010", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0011", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0012", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0013", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0014", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0015", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0016", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0017", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0018", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0019", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0020", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0021", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0022", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0023", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0024", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0025", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0026", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0027", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0028", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0029", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0030", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0031", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0032", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0033", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0034", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0035", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0036", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0037", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0038", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0039", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0040", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0041", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0042", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0043", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0044", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0045", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0046", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0047", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0048", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0049", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0050", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0051", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0052", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0053", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0054", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0055", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0056", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0057", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0058", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0059", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0060", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0061", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0062", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0063", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0064", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0065", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0066", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0067", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0068", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0069", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0070", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0071", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0072", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0073", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0074", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0075", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0076", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0077", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0078", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0079", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0080", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0081", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0082", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0083", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0084", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0085", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0086", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0087", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0088", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0089", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0090", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0091", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0092", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0093", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0094", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0095", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0096", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0097", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0098", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0099", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0100", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0101", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0102", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0103", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0104", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0105", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0106", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0107", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0108", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0109", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0110", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0111", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0112", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0113", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0114", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0115", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0116", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0117", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0118", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0119", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0120", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0121", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0122", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0123", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0124", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0125", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0126", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0127", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0128", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0129", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0130", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0131", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0132", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0133", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0134", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0135", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0136", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0137", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0138", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0139", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0140", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0141", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0142", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0143", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0144", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0145", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0146", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0147", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0148", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0149", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0150", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0151", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0152", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0153", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0154", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0155", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0156", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0157", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0158", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0159", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0160", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0161", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0162", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0163", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0164", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0165", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0166", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0167", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0168", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0169", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0170", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0171", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0172", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0173", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0174", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0175", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0176", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0177", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0178", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0179", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0180", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0181", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0182", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0183", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0184", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0185", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0186", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0187", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0188", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0189", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0190", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0191", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0192", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0193", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0194", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0195", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0196", "prediction": "0", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=False, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0197", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0198", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=True, A_QT=True, B_QT=False. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "ex0199", "prediction": "1", "rationale": "1) Use KG facts to check shared enzymes and QT flags. 2) Shared=False, A_QT=True, B_QT=True. 3) Apply rules C1/C2; if neither holds, predict 0.", "rules_violated": []}
+{"id": "fda-0", "prediction": "Answer: 0"}
+{"id": "fda-1", "prediction": "Answer: 1"}
+{"id": "fda-2", "prediction": "Answer: 0"}
+{"id": "fda-3", "prediction": "Answer: 0"}
+{"id": "fda-4", "prediction": "Answer: 0"}
+{"id": "fda-5", "prediction": "Answer: 1"}
+{"id": "fda-6", "prediction": "Answer: 0"}
+{"id": "fda-7", "prediction": "Answer: 1"}
+{"id": "fda-8", "prediction": "Answer: 0"}
+{"id": "fda-9", "prediction": "Answer: 0"}
+{"id": "fda-10", "prediction": "Answer: 0"}
+{"id": "fda-11", "prediction": "Answer: 0"}
+{"id": "fda-12", "prediction": "Answer: 0"}
+{"id": "fda-13", "prediction": "Answer: 0"}
+{"id": "fda-14", "prediction": "Answer: 0"}
+{"id": "fda-15", "prediction": "Answer: 0"}
+{"id": "fda-16", "prediction": "Answer: 0"}
+{"id": "fda-17", "prediction": "Answer: 0"}
+{"id": "fda-18", "prediction": "Answer: 1"}
+{"id": "fda-19", "prediction": "Answer: 0"}
+{"id": "fda-20", "prediction": "Answer: 0"}
+{"id": "fda-21", "prediction": "Answer: 0"}
+{"id": "fda-22", "prediction": "Answer: 0"}
+{"id": "fda-23", "prediction": "Answer: 0"}
+{"id": "fda-24", "prediction": "Answer: 0"}
+{"id": "fda-25", "prediction": "Answer: 0"}
+{"id": "fda-26", "prediction": "Answer: 0"}
+{"id": "fda-27", "prediction": "Answer: 0"}
+{"id": "fda-28", "prediction": "Answer: 1"}
+{"id": "fda-29", "prediction": "Answer: 0"}
+{"id": "fda-30", "prediction": "Answer: 0"}
+{"id": "fda-31", "prediction": "Answer: 0"}
+{"id": "fda-32", "prediction": "Answer: 0"}
+{"id": "fda-33", "prediction": "Answer: 0"}
+{"id": "fda-34", "prediction": "Answer: 0"}
+{"id": "fda-35", "prediction": "Answer: 0"}
+{"id": "fda-36", "prediction": "Answer: 0"}
+{"id": "fda-37", "prediction": "Answer: 0"}
+{"id": "fda-38", "prediction": "Answer: 0"}
+{"id": "fda-39", "prediction": "Answer: 0"}
+{"id": "fda-40", "prediction": "Answer: 0"}
+{"id": "fda-41", "prediction": "Answer: 0"}
+{"id": "fda-42", "prediction": "Answer: 0"}
+{"id": "fda-43", "prediction": "Answer: 0"}
+{"id": "fda-44", "prediction": "Answer: 0"}
+{"id": "fda-45", "prediction": "Answer: 0"}
+{"id": "fda-46", "prediction": "Answer: 0"}
+{"id": "fda-47", "prediction": "Answer: 0"}
+{"id": "fda-48", "prediction": "Answer: 0"}
+{"id": "fda-49", "prediction": "Answer: 0"}
+{"id": "fda-50", "prediction": "Answer: 1"}
+{"id": "fda-51", "prediction": "Answer: 0"}
+{"id": "fda-52", "prediction": "Answer: 1"}
+{"id": "fda-53", "prediction": "Answer: 0"}
+{"id": "fda-54", "prediction": "Answer: 0"}
+{"id": "fda-55", "prediction": "Answer: 0"}
+{"id": "fda-56", "prediction": "Answer: 0"}
+{"id": "fda-57", "prediction": "Answer: 0"}
+{"id": "fda-58", "prediction": "Answer: 0"}
+{"id": "fda-59", "prediction": "Answer: 0"}
+{"id": "fda-60", "prediction": "Answer: 0"}
+{"id": "fda-61", "prediction": "Answer: 0"}
+{"id": "fda-62", "prediction": "Answer: 0"}
+{"id": "fda-63", "prediction": "Answer: 0"}
+{"id": "fda-64", "prediction": "Answer: 0"}
+{"id": "fda-65", "prediction": "Answer: 0"}
+{"id": "fda-66", "prediction": "Answer: 0"}
+{"id": "fda-67", "prediction": "Answer: 0"}
+{"id": "fda-68", "prediction": "Answer: 0"}
+{"id": "fda-69", "prediction": "Answer: 0"}
+{"id": "fda-70", "prediction": "Answer: 0"}
+{"id": "fda-71", "prediction": "Answer: 0"}
+{"id": "fda-72", "prediction": "Answer: 0"}
+{"id": "fda-73", "prediction": "Answer: 0"}
+{"id": "fda-74", "prediction": "Answer: 0"}
+{"id": "fda-75", "prediction": "Answer: 0"}
+{"id": "fda-76", "prediction": "Answer: 0"}
+{"id": "fda-77", "prediction": "Answer: 0"}
+{"id": "fda-78", "prediction": "Answer: 0"}
+{"id": "fda-79", "prediction": "Answer: 0"}
+{"id": "fda-80", "prediction": "Answer: 0"}
+{"id": "fda-81", "prediction": "Answer: 0"}
+{"id": "fda-82", "prediction": "Answer: 0"}
+{"id": "fda-83", "prediction": "Answer: 0"}
+{"id": "fda-84", "prediction": "Answer: 0"}
+{"id": "fda-85", "prediction": "Answer: 0"}
+{"id": "fda-86", "prediction": "Answer: 0"}
+{"id": "fda-87", "prediction": "Answer: 0"}
+{"id": "fda-88", "prediction": "Answer: 0"}
+{"id": "fda-89", "prediction": "Answer: 0"}
