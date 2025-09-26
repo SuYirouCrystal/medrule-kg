@@ -103,9 +103,13 @@ python3 code/run_inference.py --backend mock --overwrite
 python3 code/eval_emit_inline.py
 ```
 Outputs:
+
 Predictions: data/predictions_{cot,kg,ours}.jsonl
+
 Figures: figs/per_rule_violations.png, figs/stratified_em.png, figs/learning_curve.png
+
 Main numbers CSV: tables/main_numbers_only.csv
+
 Console prints ready-to-paste LaTeX tables.
 
 # Option B — FDA-Derived Dataset
